@@ -1,0 +1,32 @@
+Assagniment 1
+
+prompt user for current year
+save input to cyear
+
+prompt user for birth year 
+save input to byear
+
+prompt user for birth month (1-12)
+save input to month
+
+prompt the user for money/month
+save input to money
+
+prompt the user for number of total deposits
+save input to deposits
+
+age = cyear-byear
+if age = 16 {
+  if month = > 6 and < 10
+    deposits - 0,5
+{
+
+product = money * deposits * 3
+print product
+
+
+
+
+
+
+
