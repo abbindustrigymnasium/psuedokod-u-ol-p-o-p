@@ -1,0 +1,10 @@
+prompt user for number of tickets
+save input to tickets
+
+musen = tickets/3
+
+huset = tickets/2
+
+kvasten = tickets/4
+
+print "galna musen" + int(musen), "lustiga huset" + int(huset), "flygande kvasten" + int(kvasten)
